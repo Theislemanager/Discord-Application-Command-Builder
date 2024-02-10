@@ -6,5 +6,5 @@ Discord Application Command Builder is a easy way to create, update or delete Sl
 
 You can also use this website without hosting the file yourself: [createcommands.app](https://createcommands.app/)
 
-![image](https://github.com/Theislemanager/Discord-Application-Command-Builder/assets/143001364/e3686aa9-39b9-4cd1-838d-94489b424133)
+![image](https://github.com/Theislemanager/Discord-Application-Command-Builder/assets/143001364/50697777-2857-49dc-9e02-fa4444fb40ab)
 
