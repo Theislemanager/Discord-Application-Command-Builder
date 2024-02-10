@@ -401,7 +401,7 @@ exit;
 </form>
 <div class="footer">
 
-<a class="footer-text" href="https://theislemanager.com" target="_blank"><i class="fa-solid fa-copyright"></i> THEISLEMANAGER.COM</a> 	&nbsp;&nbsp;
+<a class="footer-text" href="https://github.com/Theislemanager/Discord-Application-Command-Builder/" target="_blank"><i class="icon brands fa-github"></i> GITHUB</a> 	&nbsp;&nbsp;
 <a class="footer-text" href="https://discord.com/developers/docs/interactions/application-commands" target="_blank"><i class="fa-brands fa-discord"></i>Discord Documentation</a>
 </div>
 <script>
